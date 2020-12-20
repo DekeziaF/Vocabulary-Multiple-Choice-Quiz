@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<quiz>
+    <title>The Quiz</title>
+    <items>
+        <item>
+            <word>VISION</word>
+            <question>Emily is going to get her vision tested because she can't see the board at school. What does vision probably mean?</question>
+            <answer correct="how well a person sees">how well a person sees</answer>
+            <answer>what color eyes a person has</answer>
+            <answer>how well a person hears</answer>
+            <answer> how strong a person is</answer>
+            <definition>Definition: Able to be seen</definition> 
+        </item>
+        <item>
+            <word>TREMENDOUS</word>
+            <question>Alex was excited by the tremendous monster trucks at the show. They were bigger than he had ever seen. What does tremendous probably mean?</question>
+            <answer>Powerful</answer>
+            <answer correct="Very Big">Very Big</answer>
+            <answer>Very Small</answer>
+            <answer>Brightly Colored</answer>
+            <definition>Definition: Very great in amount, scale, or intensity.</definition>
+        </item>
+        <item>
+            <word>GAZE</word>
+            <question>If you gaze long enough at that picture of an old woman, she will seem to turn into a young woman. What does gaze probably mean?</question>
+            <answer>Throw things</answer>
+            <answer correct="Look">Look</answer>
+            <answer>Listen</answer>
+            <answer>Shout</answer>
+            <definition>Definition: Look steadily and intently, especially in admiration, surprise, or thought.</definition>
+        </item>
+        <item>
+            <word>TALENT</word>
+            <question>With talent like that, he should go far as a musician. I've never heard such amazing playing. What does talent probably mean?</question>
+            <answer>Hair</answer>
+            <answer>Confidence</answer>
+            <answer>Manners</answer>
+            <answer correct="Ability">Ability</answer>
+            <definition>Definition: Natural aptitude or skill.</definition>
+        </item>
+        <item>
+            <word>JOY</word>
+            <question>I can hardly express the joy I felt at seeing her again. What does joy probably mean?</question>
+            <answer correct="Pleasure">Pleasure</answer>
+            <answer>Misery</answer>
+            <answer>Friends</answer>
+            <answer>Tea</answer>
+            <definition>Definition: A feeling of great pleasure and happiness.</definition>
+        </item>
+        <item>
+            <word>CALF</word>
+            <question>Janelle had a sore calf after the race. She rubbed her leg from the knee to the ankle. What does CALF probably mean?</question>
+            <answer correct="Lower part of the leg">Lower part of the leg</answer>
+            <answer>Toe</answer>
+            <answer>Muscle</answer>
+            <answer>Hand</answer>
+            <definition>Definition: The part of the back of your leg between your knee and your ankle.</definition>
+        </item>
+        <item>
+            <word>WITHDRAWN</word>
+            <question>The permit is withdrawn if the clearance is not obtained within three years.What does WITHDRAWN probably mean?</question>
+            <answer>Leave</answer>
+            <answer>Enter</answer> <answer>Dominate</answer>
+            <answer correct="Take Away">Take Away</answer>
+            <definition>Definition: To remove or take away (something) from a particular place or position.</definition>
+        </item>
+        <item>
+            <word>COMPLEMENT</word>
+            <question>A great relationship is found when two people complement, not complete, each other. What does COMPLEMENT probably mean?</question>
+            <answer>Expression of praise or admiration</answer>
+            <answer correct="Added to embellish or make perfect">Added to embellish or make perfect</answer>
+            <answer >a sensational success</answer>
+            <answer>Mentally ill</answer>
+            <definition>Definition: A thing that contributes extra features to something else in such a way as to improve or emphasize its quality.</definition>
+        </item>
+        <item>
+            <word>IDIOSYNCRATIC</word>
+            <question>The strange bird let out a high-pitched sound that is idiosyncratic to its species. What does IDIOSYNCRATIC probably mean?</question>
+            <answer>Imitation or counterfeit</answer>
+            <answer correct="Peculiar or individual">Peculiar or individual</answer>
+            <answer >Discovered recently</answer>
+            <answer>Unusual </answer>
+            <definition>Definition: An idiosyncrasy is an unusual feature of a person. It can also mean an odd habit. The term is often used to express eccentricity or peculiarity. A synonym may be "quirk".</definition>
+        </item>
+        <item>
+            <word>ZEPHYR</word>
+            <question>Their magenta leaves swayed from the gentle zephyr that crossed their path. What does ZEPHYR probably mean?</question>
+            <answer>Human beings</answer>
+            <answer>Vulnerable</answer>
+            <answer >Bird</answer>
+            <answer correct="A soft gentle breeze">A soft gentle breeze</answer>
+            <definition>Definition: A soft gentle breeze.</definition>
+        </item>
+        
+    </items>
+</quiz>
